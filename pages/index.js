@@ -40,7 +40,7 @@ export default function PaginaInicial() {
 
   return (
     <>
-      <GlobalStyle />
+      {/* <GlobalStyle /> */}
       <Box
         styleSheet={{
           display: 'flex', alignItems: 'center', justifyContent: 'center',
